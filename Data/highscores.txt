@@ -1,0 +1,1 @@
+Nick: 	Test | WordLenght: 	5 | TriesStart/Triesleft: 	10/10
